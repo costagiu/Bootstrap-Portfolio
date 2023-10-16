@@ -1,0 +1,10 @@
+
+.mycard{
+    max-height: 410px;
+}
+
+.myhero{
+    background-image: url(../images/02-hero-bg.jpg);
+    height: 400px;
+    width: 100%;
+}

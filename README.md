@@ -12,9 +12,9 @@ The deployed version you can find here: https://costagiu.github.io/bootstrap-por
   
 To open the webpage open index.html in your webbrowser. It should look like this:
 
-![Top of the page](assets/images/Screenshot1.png)
+![Top of the page](images/Screenshot1.png)
 
-![Footer](assets/images/Screenshot2.png)
+![Footer](images/Screenshot2.png)
 
 Credits
 

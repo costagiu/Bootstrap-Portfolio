@@ -7,6 +7,15 @@ Defintely learing new tools that I am going to use in my next projects and compa
 
 The deployed version you can find here: https://costagiu.github.io/bootstrap-portfolio
 
+## Usage
+
+  
+To open the webpage open index.html in your webbrowser. It should look like this:
+
+![Top of the page](assets/images/Screenshot1.png)
+
+![Footer](assets/images/Screenshot2.png)
+
 Credits
 
 I used W3Schools as a reference for HTML.
